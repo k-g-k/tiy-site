@@ -1,0 +1,56 @@
+body {
+  font-family: "Helvettica", "Arial", sans-serif;
+  color:white;
+}
+
+header {
+  background: #AD1457;
+  padding:20px;
+}
+
+.navbar {
+  padding:10px;
+  display: inline-block;
+  float:right;
+}
+
+.logopic {
+  display:inline-block;
+}
+
+.welcome-box {
+
+  background-color: #E91E63;
+  padding: 50px;
+  border:none;
+  display: block;
+  margin: 0px;
+  text-align:left;
+}
+
+.welcome-text {
+  max-width:600px;
+  text-align:left;
+  margin:auto;
+}
+
+p {
+  font-size:1.1em;
+  line-height:1.5em;
+}
+
+.welcomepic {
+  max-width:700px;
+  margin:auto;
+  display: block;
+  padding:20px;
+  overflow:auto;
+}
+
+.what-is-section {
+  background: #444 url(http://academy.smashingboxes.com/assets/timeline_bg-c6df24fc8cdea898ad4491ad758fdbe7.jpg);
+  background-size:cover;
+  background-attachment: fixed;
+  background-position: 100px;
+  background-repeat:no-repeat;
+}
